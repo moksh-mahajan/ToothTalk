@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToothTalk</string>
+    <string name="btnListen">Listen</string>
+    <string name="btnListenDevices">List Devices</string>
+    <string name="etType">Type</string>
+    <string name="tvMessage">Message</string>
+    <string name="brnSend">Send</string>
+    <string name="tvStatus">Status</string>
+</resources>
